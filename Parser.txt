@@ -1,0 +1,12 @@
+Function argument: b 
+Function argument: a 
+Function body:
+Variable Name:a Variable Name:b Variable name: ans
+Variable Name:ans  Return keyword
+Function Name addition is defined
+Function body:
+prints:"hello, we are doing addition here"
+Function parameter: 2 
+Function parameter: 1 
+Function addition is called
+main function executed
